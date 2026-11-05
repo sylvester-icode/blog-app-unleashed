@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793630410438,
+      "tag": "0000_daffy_frank_castle",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793633739937,
+      "tag": "0001_strong_revanche",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1793642164579,
+      "tag": "0002_breezy_supreme_intelligence",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1793654932722,
+      "tag": "0003_eminent_thunderbird",
+      "breakpoints": true
+    }
+  ]
+}
